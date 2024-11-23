@@ -1,0 +1,35 @@
+Tree Traversal Practice
+
+Objective: 
+    - The objective of this assignment is to practice implementing and understanding different tree traversal algorithms.
+
+Problem Statement: 
+    - You are provided with a binary tree data structure. Your task is to implement various traversal algorithms recursively and analyze their traversal order and output.
+
+
+                50
+           ┌─────┴─────┐
+          30           70
+     ┌────┴────┐   ┌────┴────┐
+    40       20   60         80
+
+
+Task 1
+    - Implement the in-order traversal algorithm for the given binary tree.
+
+Task 2
+    - Implement the pre-order traversal algorithm for the given binary tree.
+
+Task 3
+    - Implement the post-order traversal algorithm for the given binary tree.
+
+Task 4
+    - Test the implemented traversal algorithms on a binary tree and observe the traversal order and output.
+
+Expected Outcomes:
+    - Successful implementation of in-order, pre-order, and post-order traversal algorithms.
+    - Understanding of the traversal order and output for each algorithm.
+    - Practice in analyzing and comparing different traversal techniques.
+
+
+keys = [50, 30, 70, 40, 20, 60, 80]
